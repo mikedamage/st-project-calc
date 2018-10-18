@@ -1,0 +1,12 @@
+{
+  "name": "simple-thread-challenge",
+  "version": "1.0.0",
+  "author": "Mike Green <mike.is.green@gmail.com>",
+  "private": true,
+  "description": "Technical exercise for Simple Thread",
+  "repository": "github:mikedamage/simple-thread-challenge",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
