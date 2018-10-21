@@ -7,7 +7,7 @@
   "repository": "github:mikedamage/simple-thread-challenge",
   "scripts": {
     "test": "jest lib",
-    "run": "bin/project-calc.js"
+    "start": "bin/project-calc.js"
   },
   "license": "MIT",
   "dependencies": {

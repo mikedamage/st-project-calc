@@ -7,6 +7,7 @@ by Mike Green
 ```sh
 npm i
 npm test # runs Jest tests
-npm run # Just prints the results
+npm start # prints the overall results
+DEBUG=1 npm start # prints debug info, individual day rates, and totals
 ```
 
