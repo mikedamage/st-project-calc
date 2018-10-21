@@ -6,10 +6,12 @@
   "description": "Technical exercise for Simple Thread",
   "repository": "github:mikedamage/simple-thread-challenge",
   "scripts": {
-    "test": "jest lib"
+    "test": "jest lib",
+    "run": "bin/project-calc.js"
   },
   "license": "MIT",
   "dependencies": {
+    "chalk": "^2.4.1",
     "luxon": "^1.4.3"
   },
   "devDependencies": {
